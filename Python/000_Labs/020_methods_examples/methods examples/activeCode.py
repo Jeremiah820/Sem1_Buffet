@@ -1,0 +1,7 @@
+Noun = input("Type a weird noun")
+ing = input("Type A verb ending in -ing")
+Adjective = input("Type A silly adjective")
+Name food = input("Type The name of a food")
+A quanity = input("Type A quantity")
+famous person = input("Type A famous person")
+funky noise = input("Type A funky noise")

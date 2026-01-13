@@ -1,0 +1,104 @@
+{
+    "intents":[ 
+        {
+            "tag": "greeting",
+            "patterns": ["good afternoon", "sup", "whats good bro", "Whats cooking", "yo", "greetings", "greetings", "Hi there", "Gooday", "Salutations", "dear", "hi", "Hey", "What up bru"],
+            "responses": ["Whats up brother", "hello", "Welcome", "Whats up bro"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["good bye", "salutations", "farwell", "bye bye", "cya", "see ya later", "g2g", "gtg", "later", "save travels"],
+            "responses": ["peace out", "got to go", "salutations", "see you soon", "take care", "see you later alligator"]
+        },
+        {
+            "tag": "weather",
+            "patterns": ["Will it rain?","Is it sunny today?"],
+            "responses": ["It is sunny", "It is raining"]
+        },
+        {
+            "tag": "joke",
+            "patterns": ["Tell me a joke", "I want a joke"],
+            "responses": ["What is a flea's favorite way to travel? Itch hiking!"]
+        },
+        {
+            "tag": "name",
+            "patterns": ["What is your name?", "Who are you?", "Your name?"],
+            "responses": ["I am Garry"]
+        },
+        {
+            "tag": "age",
+            "patterns": ["How old are you?", "What is your age?", "Age?"],
+            "responses": ["I am a bot I dont age or have an age."]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you"],
+            "responses": ["Your Welcome", "No problem"]
+        },
+        {
+            "tag": "mood",
+            "patterns": ["How ar you?", "How is it going?"],
+            "responses": ["Im doing great"]
+        },
+        {
+            "tag": "help",
+            "patterns": ["I need help", "Can you help me"],
+            "responses": ["What do you need help with?"]
+        },
+        {
+            "tag": "bot information",
+            "patterns": ["What can you do?"],
+            "responses": ["I can tell jokes", "I can answer simple questions"]
+        },
+        {
+            "tag": "food",
+            "patterns": ["What's your favorite food?", "favorite meal"],
+            "responses": ["I dont eat"]
+        },
+        {
+            "tag": "time",
+            "patterns": ["What time is it?", "Current time", "time?"],
+            "responses": ["I dont know you can check your device or this computer."]
+        },
+        {
+            "tag": "location",
+            "patterns": ["Where are you?", "Your location?"],
+            "responses": ["I am everywhere and nowhere."]
+        },
+        {
+            "tag": "study",
+            "patterns": ["I need to study", "How to study?"],
+            "responses": ["Take breaks and stay focused."]
+        },
+        {
+            "tag": "exercise",
+            "patterns": ["How to exercise"],
+            "responses": ["Always warm up before working out"]
+        },
+        {
+            "tag": "movies",
+            "patterns": ["Recommend a movie", "What movie to watch", "Tell me another movie", "again"],
+            "responses": ["Lion king", "Frozen", "Shrek", "Puss in boots", "Snow white"]
+        },
+        {
+            "tag": "music",
+            "patterns": ["Recommend a song?", "Song?", "Whats your favorite song?"],
+            "responses": ["Happy by pharrel williams"]
+        },
+        {
+            "tag": "sports",
+            "patterns": ["Favorite sport?", "Do you like football?"],
+            "responses": ["I like football and basketball", "Football", "Basketball"]
+        },
+        {
+            "tag": "learning coding",
+            "patterns": ["How to code", "Coding toturial"],
+            "responses": ["Check online for toturials", "do some exercises and practie alot"]
+        },
+        {
+            "tag": "fun facts",
+            "patterns": ["Tell me a fun fact", "fun fact", "Random fact"],
+            "responses": ["Did you know octopuses have 3 hearts?", "Honey never spoils!"]
+        }
+    ]
+}
